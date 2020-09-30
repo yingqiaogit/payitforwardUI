@@ -1,4 +1,4 @@
-# hello-world
+# Pay it Forward UI
 
 ## Project setup
 ```
@@ -14,6 +14,6 @@ npm run serve
 ```
 npm run build
 ```
+### Prerequisite
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+run payitforwardpeer backend locally
